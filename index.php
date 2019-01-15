@@ -1,10 +1,10 @@
 <?php
 /**
  * Plugin Name: MyForm
- * Description: Allows you to crate and attach feedback form in wordpress pages.
+ * Description: Allows you to create and attach feedback form in wordpress pages.You can choose to email the feedback or save them in database.
  * Version: 1.0.0
- * Author: Digdarshan
- * Author URI: http://www.google.com/
+ * Author: Digdarshan Kunwar
+ * Author URI:
  *
 **/
 
